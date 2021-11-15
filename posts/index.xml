@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on michaelpeters</title>
+    <link>https://michaelpeters.dev/posts/</link>
+    <description>Recent content in Posts on michaelpeters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 14 Nov 2021 15:44:04 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spaces vs. Tabs</title>
+      <link>https://michaelpeters.dev/posts/spaces-vs-tabs/</link>
+      <pubDate>Sun, 14 Nov 2021 15:44:04 -0800</pubDate>
+      
+      <guid>https://michaelpeters.dev/posts/spaces-vs-tabs/</guid>
+      <description>The Question? Should a software engineer use tabs or spaces when writing code?
+The Answer? Use tabs, no really. In your favorite text-editor or IDE, simply set the tab length to 4 spaces.
+Why?  Tabs take only one byte, whereas the equivalent (4 spaces) takes four bytes.  Realistically, this doesn&amp;rsquo;t matter nowadays with compression, minification, and large HDD/SSD storage mediums available.   Tabs allow you to set the visual-width to your liking.</description>
+    </item>
+    
+  </channel>
+</rss>
