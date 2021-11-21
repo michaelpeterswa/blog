@@ -11,9 +11,9 @@ ShowPostNavLinks: true
 draft: false
 ---
 ## Issue
-This evening, I was struggling to access my new "7 Days" server after provisioning a new Rocky Linux 8 VM to host it on. I have plenty of experience hosting both bare-metal and VM game servers and for Steam games, my tool of choice is typically [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM/) by Daniel Gibbs. This is a fabulous piece of software that abstracts some of the nitty-gritty away (which definitely helps when running servers from multiple games).
+This evening, I was struggling to access my new "7 Days To Die" server after provisioning a new Rocky Linux 8 VM to host it on. As a preface, I have plenty of experience hosting both bare-metal and VM game servers. For Steam games, my tool of choice is typically [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM/) by Daniel Gibbs. This is a fabulous piece of software that abstracts some of the nitty-gritty away (which definitely helps when running servers from multiple games).
 ## Port-Forwarding
-Normally, I would chalk the issue up to a misconfigured port forward.  I quickly determined that another issue was at fault when I couldn't access the server from the LAN. That was a telltale sign that something else is at play.
+Normally, I would chalk a connection issue up to a misconfigured port forward.  I quickly determined that another issue was at fault when I couldn't access the server from the LAN. That is a telltale sign something else is at play.
 ## Google Searching
 After many dead ends, I stumbled upon this [r/7daystodie thread](https://www.reddit.com/r/7daystodie/comments/n10crs/solution_for_timed_out_issue_on_a_dedicated/) where the OP noticed that there is a parameter in the settings file that prevents `SteamNetworking` from being enabled. I was dumbfounded that a default setting in the server config prevents networking/connection on the main platform of distribution.
 ## Important Settings
