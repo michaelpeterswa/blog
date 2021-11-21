@@ -5,7 +5,16 @@
     <link>https://michaelpeters.dev/</link>
     <description>Recent content on michaelpeters</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 14 Nov 2021 15:44:04 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 23:20:59 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LinuxGSM 7DaysToDie Tips</title>
+      <link>https://michaelpeters.dev/posts/linuxgsm-7dtd-info/</link>
+      <pubDate>Sat, 20 Nov 2021 23:20:59 -0800</pubDate>
+      
+      <guid>https://michaelpeters.dev/posts/linuxgsm-7dtd-info/</guid>
+      <description>Issue This evening, I was struggling to access my new &amp;ldquo;7 Days&amp;rdquo; server after provisioning a new Rocky Linux 8 VM to host it on. I have plenty of experience hosting both bare-metal and VM game servers and for Steam games, my tool of choice is typically LinuxGSM by Daniel Gibbs. This is a fabulous piece of software that abstracts some of the nitty-gritty away (which definitely helps when running servers from multiple games).</description>
+    </item>
+    
     <item>
       <title>Spaces vs. Tabs</title>
       <link>https://michaelpeters.dev/posts/spaces-vs-tabs/</link>
