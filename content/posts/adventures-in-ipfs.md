@@ -13,13 +13,13 @@ draft: false
 
 ## Preface (just a shoutout)
 Firstly, before digging into the real meat of this post, I'd like to thank 
-[GuildDarts on GitHub](https://github.com/GuildDarts/) for creating the incredible `Docker Folders` plugin for Unraid (which greatly helped me clean up my Docker container list). I found out about this plugin after creating a new IPFS container which rounded out a cluttered ~30 containers running on my Dell R620. With it, I was able to make a new `Web3` category to store my new related containers in. Now I have 6 or so categories to store my other containers in, and it is much more readable.
+[GuildDarts on GitHub](https://github.com/GuildDarts/) for creating the incredible `Docker Folders` plugin for Unraid (which greatly helped me clean up my Docker container list). I found this plugin after creating a new IPFS Docker container, which rounded out a cluttered ~30 containers running on my Dell R620. With it, I was able to make a new `Web3` category to store my new related containers in. Now I have 6 or so container categories, and it is much more readable.
 
 ## IPFS Introduction
 As described on their website, IPFS is:
 > A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
 
-It's a neat piece of software written in Go that is powering some of the early work in what the community is calling *Web3*. Essentially, IPFS is a distributed storage network, which allows access to any node on the network. By definition, it's also decentralized. All the different pieces of data are spread out (distributed) across the network nodes.
+It's a neat piece of software written in Go that is powering some of the early work in what the community is calling *Web3*. Essentially, IPFS is a distributed storage network, which allows access to data by any node on the network. By definition, it's also decentralized. All the different pieces of data are spread out (distributed) across the network nodes.
 
 ## So How Does It Work?
 I won't pretend to understand the finer and more technical details of this project (yet), but [their documentation](https://docs.ipfs.io/concepts/how-ipfs-works/#content-addressing) (which coincedentally also uses IPFS to access) does an admirable job of summing up the three key points that make IPFS tick. They are as follows:
