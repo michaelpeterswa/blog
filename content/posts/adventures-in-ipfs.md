@@ -8,7 +8,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
-draft: true
+draft: false
 ---
 
 ## Preface (just a shoutout)
@@ -58,6 +58,8 @@ There are multiple ways to access the website now! Two links that should work in
 * https://alpin3.eth.limo
 
 The content is also accessible through IPFS at the link below:
+
+* [ipfs://QmS8FUArChXPQDfxeVTFU4Bnn48m4knMqxQ1GjrWB5RjMK](ipfs://QmS8FUArChXPQDfxeVTFU4Bnn48m4knMqxQ1GjrWB5RjMK)
 
 
 ## Final Notes
