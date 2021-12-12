@@ -5,13 +5,40 @@
     <link>https://michaelpeters.dev/tags/</link>
     <description>Recent content in Tags on michaelpeters</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 Nov 2021 23:20:59 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Dec 2021 00:16:00 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
       <link>https://michaelpeters.dev/tags/blog/</link>
-      <pubDate>Sat, 20 Nov 2021 23:20:59 -0800</pubDate>
+      <pubDate>Sat, 11 Dec 2021 00:16:00 -0800</pubDate>
       
       <guid>https://michaelpeters.dev/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crypto</title>
+      <link>https://michaelpeters.dev/tags/crypto/</link>
+      <pubDate>Sat, 11 Dec 2021 00:16:00 -0800</pubDate>
+      
+      <guid>https://michaelpeters.dev/tags/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ipfs</title>
+      <link>https://michaelpeters.dev/tags/ipfs/</link>
+      <pubDate>Sat, 11 Dec 2021 00:16:00 -0800</pubDate>
+      
+      <guid>https://michaelpeters.dev/tags/ipfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web3</title>
+      <link>https://michaelpeters.dev/tags/web3/</link>
+      <pubDate>Sat, 11 Dec 2021 00:16:00 -0800</pubDate>
+      
+      <guid>https://michaelpeters.dev/tags/web3/</guid>
       <description></description>
     </item>
     

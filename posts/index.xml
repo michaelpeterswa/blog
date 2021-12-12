@@ -5,7 +5,16 @@
     <link>https://michaelpeters.dev/posts/</link>
     <description>Recent content in Posts on michaelpeters</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 Nov 2021 23:20:59 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Dec 2021 00:16:00 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adventures in IPFS</title>
+      <link>https://michaelpeters.dev/posts/adventures-in-ipfs/</link>
+      <pubDate>Sat, 11 Dec 2021 00:16:00 -0800</pubDate>
+      
+      <guid>https://michaelpeters.dev/posts/adventures-in-ipfs/</guid>
+      <description>Preface (just a shoutout) Firstly, before digging into the real meat of this post, I&amp;rsquo;d like to thank GuildDarts on GitHub for creating the incredible Docker Folders plugin for Unraid (which greatly helped me clean up my Docker container list). I found out about this plugin after creating a new IPFS container which rounded out a cluttered ~30 containers running on my Dell R620. With it, I was able to make a new Web3 category to store my new related containers in.</description>
+    </item>
+    
     <item>
       <title>LinuxGSM 7DaysToDie Tips</title>
       <link>https://michaelpeters.dev/posts/linuxgsm-7dtd-info/</link>

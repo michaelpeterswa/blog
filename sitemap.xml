@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://michaelpeters.dev/posts/adventures-in-ipfs/</loc>
+    <lastmod>2021-12-11T00:16:00-08:00</lastmod>
+  </url><url>
     <loc>https://michaelpeters.dev/tags/blog/</loc>
-    <lastmod>2021-11-20T23:20:59-08:00</lastmod>
+    <lastmod>2021-12-11T00:16:00-08:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/tags/crypto/</loc>
+    <lastmod>2021-12-11T00:16:00-08:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/tags/ipfs/</loc>
+    <lastmod>2021-12-11T00:16:00-08:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/</loc>
+    <lastmod>2021-12-11T00:16:00-08:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/posts/</loc>
+    <lastmod>2021-12-11T00:16:00-08:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/tags/</loc>
+    <lastmod>2021-12-11T00:16:00-08:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/tags/web3/</loc>
+    <lastmod>2021-12-11T00:16:00-08:00</lastmod>
   </url><url>
     <loc>https://michaelpeters.dev/tags/gaming/</loc>
     <lastmod>2021-11-20T23:20:59-08:00</lastmod>
   </url><url>
     <loc>https://michaelpeters.dev/posts/linuxgsm-7dtd-info/</loc>
-    <lastmod>2021-11-20T23:20:59-08:00</lastmod>
-  </url><url>
-    <loc>https://michaelpeters.dev/</loc>
-    <lastmod>2021-11-20T23:20:59-08:00</lastmod>
-  </url><url>
-    <loc>https://michaelpeters.dev/posts/</loc>
-    <lastmod>2021-11-20T23:20:59-08:00</lastmod>
-  </url><url>
-    <loc>https://michaelpeters.dev/tags/</loc>
     <lastmod>2021-11-20T23:20:59-08:00</lastmod>
   </url><url>
     <loc>https://michaelpeters.dev/tags/controversial/</loc>
