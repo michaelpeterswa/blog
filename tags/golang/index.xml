@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>golang on michaelpeters</title>
+    <link>https://michaelpeters.dev/tags/golang/</link>
+    <description>Recent content in golang on michaelpeters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 Dec 2021 18:57:31 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hashes and Strings in Go</title>
+      <link>https://michaelpeters.dev/posts/hashes-and-strings/</link>
+      <pubDate>Wed, 22 Dec 2021 18:57:31 -0800</pubDate>
+      
+      <guid>https://michaelpeters.dev/posts/hashes-and-strings/</guid>
+      <description>Introduction In a few cases while working on Go software, I have needed to generate a cryptographic hash (mainly SHA-256) from a string or JSON value. In all cases up to this point, I needed to convert the resulting []byte to a string representation for storage or viewing. In my investigation, I found two popular ways to approach this problem. I&amp;rsquo;ll describe them below as well as explore the performance implications of each choice.</description>
+    </item>
+    
+  </channel>
+</rss>
