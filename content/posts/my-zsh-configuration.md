@@ -10,7 +10,7 @@ ShowPostNavLinks: true
 
 draft: false
 ---
-# ZSH!
+## ZSH!
 Below you can find the setup that I've found very comfortable while still maintaining a relatively minimal terminal experience. Confidential environment variables and aliases have been omitted to maintain basic operational security. This post will be edited every time a major revision is made.
 
 ## Customizations of Note
@@ -18,7 +18,7 @@ Below you can find the setup that I've found very comfortable while still mainta
 * `cat` Alternative: [bat](https://github.com/sharkdp/bat)
 * Theme: [lambda-gitster](https://github.com/ergenekonyigit/lambda-gitster)
 
-## Current .zshrc Configuration
+## Current `.zshrc` Configuration
 
 ```shell
 export ZSH="/Users/michaelpeters/.oh-my-zsh"
