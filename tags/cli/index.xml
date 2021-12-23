@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cli on michaelpeters</title>
+    <link>https://michaelpeters.dev/tags/cli/</link>
+    <description>Recent content in cli on michaelpeters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 Dec 2021 20:01:20 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My ZSH Configuration</title>
+      <link>https://michaelpeters.dev/posts/my-zsh-configuration/</link>
+      <pubDate>Wed, 22 Dec 2021 20:01:20 -0800</pubDate>
+      
+      <guid>https://michaelpeters.dev/posts/my-zsh-configuration/</guid>
+      <description>ZSH! Below you can find the setup that I&amp;rsquo;ve found very comfortable while still maintaining a relatively minimal terminal experience. Confidential environment variables and aliases have been omitted to maintain basic operational security. This post will be edited every time a major revision is made.
+Customizations of Note  Plugin Manager: Antibody cat Alternative: bat Theme: lambda-gitster  Current .zshrc Configuration export ZSH=&amp;#34;/Users/michaelpeters/.oh-my-zsh&amp;#34; export PATH=/usr/local/git/bin:$PATH ZSH_THEME=&amp;#34;lambda-gitster&amp;#34; DISABLE_UPDATE_PROMPT=&amp;#34;true&amp;#34; COMPLETION_WAITING_DOTS=&amp;#34;true&amp;#34; DISABLE_UNTRACKED_FILES_DIRTY=&amp;#34;true&amp;#34; source $ZSH/oh-my-zsh.</description>
+    </item>
+    
+  </channel>
+</rss>
