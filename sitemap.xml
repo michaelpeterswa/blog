@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://michaelpeters.dev/posts/ansible-for-the-homelab/</loc>
+    <lastmod>2022-02-13T17:29:55-08:00</lastmod>
+  </url><url>
     <loc>https://michaelpeters.dev/tags/blog/</loc>
-    <lastmod>2021-12-22T20:01:20-08:00</lastmod>
+    <lastmod>2022-02-13T17:29:55-08:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/</loc>
+    <lastmod>2022-02-13T17:29:55-08:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/posts/</loc>
+    <lastmod>2022-02-13T17:29:55-08:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/tags/</loc>
+    <lastmod>2022-02-13T17:29:55-08:00</lastmod>
   </url><url>
     <loc>https://michaelpeters.dev/tags/cli/</loc>
     <lastmod>2021-12-22T20:01:20-08:00</lastmod>
@@ -14,16 +26,7 @@
     <loc>https://michaelpeters.dev/tags/macos/</loc>
     <lastmod>2021-12-22T20:01:20-08:00</lastmod>
   </url><url>
-    <loc>https://michaelpeters.dev/</loc>
-    <lastmod>2021-12-22T20:01:20-08:00</lastmod>
-  </url><url>
     <loc>https://michaelpeters.dev/posts/my-zsh-configuration/</loc>
-    <lastmod>2021-12-22T20:01:20-08:00</lastmod>
-  </url><url>
-    <loc>https://michaelpeters.dev/posts/</loc>
-    <lastmod>2021-12-22T20:01:20-08:00</lastmod>
-  </url><url>
-    <loc>https://michaelpeters.dev/tags/</loc>
     <lastmod>2021-12-22T20:01:20-08:00</lastmod>
   </url><url>
     <loc>https://michaelpeters.dev/tags/benchmark/</loc>

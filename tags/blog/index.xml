@@ -5,7 +5,16 @@
     <link>https://michaelpeters.dev/tags/blog/</link>
     <description>Recent content in blog on michaelpeters</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Dec 2021 20:01:20 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Feb 2022 17:29:55 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ansible for the Homelab</title>
+      <link>https://michaelpeters.dev/posts/ansible-for-the-homelab/</link>
+      <pubDate>Sun, 13 Feb 2022 17:29:55 -0800</pubDate>
+      
+      <guid>https://michaelpeters.dev/posts/ansible-for-the-homelab/</guid>
+      <description>Ansible for the Homelab It&amp;rsquo;s been a while since I last posted. Well, I&amp;rsquo;ve been working on something special. With my first server (an HP laptop with a broken screen) being nearly five years old, I was rapidly growing concerned about the health of it&amp;rsquo;s battery. The laptop has been plugged in and &amp;ldquo;floating&amp;rdquo; at 100% for the last 3-4 years. Given it&amp;rsquo;s previous life as a daily driven laptop (~7 years of total use), I assumed one day in the near future it would decide to become a spicy pillow.</description>
+    </item>
+    
     <item>
       <title>My ZSH Configuration</title>
       <link>https://michaelpeters.dev/posts/my-zsh-configuration/</link>
