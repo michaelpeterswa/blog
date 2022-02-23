@@ -64,6 +64,8 @@ alias dcub="docker compose up --build"
 alias dcd="docker compose down"
 alias dp="docker push"
 
+alias mk="minikube"
+
 timezsh() {
   shell=${1-$SHELL}
   for i in $(seq 1 10); do /usr/bin/time $shell -i -c exit; done
