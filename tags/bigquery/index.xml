@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>bigquery on michaelpeters</title>
+    <link>https://michaelpeters.dev/tags/bigquery/</link>
+    <description>Recent content in bigquery on michaelpeters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Jun 2022 13:09:15 -0700</lastBuildDate><atom:link href="https://michaelpeters.dev/tags/bigquery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leveraging External Tables in Google BigQuery</title>
+      <link>https://michaelpeters.dev/posts/leveraging-external-tables-in-google-big-query/</link>
+      <pubDate>Wed, 29 Jun 2022 13:09:15 -0700</pubDate>
+      
+      <guid>https://michaelpeters.dev/posts/leveraging-external-tables-in-google-big-query/</guid>
+      <description>Context Recently, I was tasked with logging error messages, request data, and the response body of failed HTTP requests to BigQuery for a service that makes outgoing GET and POST requests to thousands of different endpoints. Simple enough, right?
+Loading Logs into BigQuery Thankfully, the project already contained a legacy BigQuery streaming implementation which I used as my batch writer. After a thorough review of the changes, it was deployed to production.</description>
+    </item>
+    
+  </channel>
+</rss>

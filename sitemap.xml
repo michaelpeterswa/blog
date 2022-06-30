@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://michaelpeters.dev/posts/ansible-for-the-homelab/</loc>
-    <lastmod>2022-02-13T17:29:55-08:00</lastmod>
+    <loc>https://michaelpeters.dev/tags/bigquery/</loc>
+    <lastmod>2022-06-29T13:09:15-07:00</lastmod>
   </url><url>
     <loc>https://michaelpeters.dev/tags/blog/</loc>
-    <lastmod>2022-02-13T17:29:55-08:00</lastmod>
+    <lastmod>2022-06-29T13:09:15-07:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/tags/gcs/</loc>
+    <lastmod>2022-06-29T13:09:15-07:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/tags/go/</loc>
+    <lastmod>2022-06-29T13:09:15-07:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/tags/google/</loc>
+    <lastmod>2022-06-29T13:09:15-07:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/posts/leveraging-external-tables-in-google-big-query/</loc>
+    <lastmod>2022-06-29T13:09:15-07:00</lastmod>
   </url><url>
     <loc>https://michaelpeters.dev/</loc>
-    <lastmod>2022-02-13T17:29:55-08:00</lastmod>
+    <lastmod>2022-06-29T13:09:15-07:00</lastmod>
   </url><url>
     <loc>https://michaelpeters.dev/posts/</loc>
-    <lastmod>2022-02-13T17:29:55-08:00</lastmod>
+    <lastmod>2022-06-29T13:09:15-07:00</lastmod>
   </url><url>
     <loc>https://michaelpeters.dev/tags/</loc>
+    <lastmod>2022-06-29T13:09:15-07:00</lastmod>
+  </url><url>
+    <loc>https://michaelpeters.dev/posts/ansible-for-the-homelab/</loc>
     <lastmod>2022-02-13T17:29:55-08:00</lastmod>
   </url><url>
     <loc>https://michaelpeters.dev/tags/cli/</loc>

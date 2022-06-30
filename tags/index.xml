@@ -5,13 +5,49 @@
     <link>https://michaelpeters.dev/tags/</link>
     <description>Recent content in Tags on michaelpeters</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Feb 2022 17:29:55 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 13:09:15 -0700</lastBuildDate><atom:link href="https://michaelpeters.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bigquery</title>
+      <link>https://michaelpeters.dev/tags/bigquery/</link>
+      <pubDate>Wed, 29 Jun 2022 13:09:15 -0700</pubDate>
+      
+      <guid>https://michaelpeters.dev/tags/bigquery/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://michaelpeters.dev/tags/blog/</link>
-      <pubDate>Sun, 13 Feb 2022 17:29:55 -0800</pubDate>
+      <pubDate>Wed, 29 Jun 2022 13:09:15 -0700</pubDate>
       
       <guid>https://michaelpeters.dev/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gcs</title>
+      <link>https://michaelpeters.dev/tags/gcs/</link>
+      <pubDate>Wed, 29 Jun 2022 13:09:15 -0700</pubDate>
+      
+      <guid>https://michaelpeters.dev/tags/gcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://michaelpeters.dev/tags/go/</link>
+      <pubDate>Wed, 29 Jun 2022 13:09:15 -0700</pubDate>
+      
+      <guid>https://michaelpeters.dev/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google</title>
+      <link>https://michaelpeters.dev/tags/google/</link>
+      <pubDate>Wed, 29 Jun 2022 13:09:15 -0700</pubDate>
+      
+      <guid>https://michaelpeters.dev/tags/google/</guid>
       <description></description>
     </item>
     

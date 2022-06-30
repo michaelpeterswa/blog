@@ -5,7 +5,17 @@
     <link>https://michaelpeters.dev/posts/</link>
     <description>Recent content in Posts on michaelpeters</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Feb 2022 17:29:55 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 13:09:15 -0700</lastBuildDate><atom:link href="https://michaelpeters.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leveraging External Tables in Google BigQuery</title>
+      <link>https://michaelpeters.dev/posts/leveraging-external-tables-in-google-big-query/</link>
+      <pubDate>Wed, 29 Jun 2022 13:09:15 -0700</pubDate>
+      
+      <guid>https://michaelpeters.dev/posts/leveraging-external-tables-in-google-big-query/</guid>
+      <description>Context Recently, I was tasked with logging error messages, request data, and the response body of failed HTTP requests to BigQuery for a service that makes outgoing GET and POST requests to thousands of different endpoints. Simple enough, right?
+Loading Logs into BigQuery Thankfully, the project already contained a legacy BigQuery streaming implementation which I used as my batch writer. After a thorough review of the changes, it was deployed to production.</description>
+    </item>
+    
     <item>
       <title>Ansible for the Homelab</title>
       <link>https://michaelpeters.dev/posts/ansible-for-the-homelab/</link>
@@ -22,7 +32,7 @@
       
       <guid>https://michaelpeters.dev/posts/my-zsh-configuration/</guid>
       <description>ZSH! Below you can find the setup that I&amp;rsquo;ve found very comfortable while still maintaining a relatively minimal terminal experience. Confidential environment variables and aliases have been omitted to maintain basic operational security. This post will be edited every time a major revision is made.
-Customizations of Note  Plugin Manager: Antibody cat Alternative: bat Theme: lambda-gitster  Current .zshrc Configuration export ZSH=&amp;#34;/Users/michaelpeters/.oh-my-zsh&amp;#34; export PATH=/usr/local/git/bin:$PATH ZSH_THEME=&amp;#34;lambda-gitster&amp;#34; DISABLE_UPDATE_PROMPT=&amp;#34;true&amp;#34; COMPLETION_WAITING_DOTS=&amp;#34;true&amp;#34; DISABLE_UNTRACKED_FILES_DIRTY=&amp;#34;true&amp;#34; source $ZSH/oh-my-zsh.</description>
+Customizations of Note Plugin Manager: Antibody cat Alternative: bat Theme: lambda-gitster Current .zshrc Configuration export ZSH=&amp;#34;/Users/michaelpeters/.oh-my-zsh&amp;#34; export PATH=/usr/local/git/bin:$PATH ZSH_THEME=&amp;#34;lambda-gitster&amp;#34; DISABLE_UPDATE_PROMPT=&amp;#34;true&amp;#34; COMPLETION_WAITING_DOTS=&amp;#34;true&amp;#34; DISABLE_UNTRACKED_FILES_DIRTY=&amp;#34;true&amp;#34; source $ZSH/oh-my-zsh.sh source &amp;lt;(antibody init) antibody bundle &amp;lt; ~/.</description>
     </item>
     
     <item>
@@ -60,7 +70,7 @@ Customizations of Note  Plugin Manager: Antibody cat Alternative: bat Theme: lam
       <guid>https://michaelpeters.dev/posts/spaces-vs-tabs/</guid>
       <description>The Question? Should a software engineer use tabs or spaces when writing code?
 The Answer? Use tabs, no really. In your favorite text-editor or IDE, simply set the tab length to 4 spaces.
-Why?  Tabs take only one byte, whereas the equivalent (4 spaces) takes four bytes.  Realistically, this doesn&amp;rsquo;t matter nowadays with compression, minification, and large HDD/SSD storage mediums available.   Tabs allow you to set the visual-width to your liking.</description>
+Why? Tabs take only one byte, whereas the equivalent (4 spaces) takes four bytes. Realistically, this doesn&amp;rsquo;t matter nowadays with compression, minification, and large HDD/SSD storage mediums available. Tabs allow you to set the visual-width to your liking.</description>
     </item>
     
   </channel>
