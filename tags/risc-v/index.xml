@@ -13,8 +13,7 @@
       
       <guid>https://michaelpeters.dev/posts/embedded-rust-programming-on-wsl/</guid>
       <description>Image Courtesy of SiFive, Inc.
-I recently picked up the SiFive HiFive 1 Rev B RISC-V microcontroller and decided that I wanted to start with Rust as the first language I developed in for this platform. Here is a thorough write-up of the process on Windows 11 via Windows Subsystem for Linux today (February 2023).
-Process This post assumes that you already have a properly configured Ubuntu 20.04 WSL install.</description>
+I recently picked up the SiFive HiFive 1 Rev B RISC-V microcontroller on Crowd Supply. According to the SiFive product page, the HiFive 1 Rev B is &amp;ldquo;an Arduino-compatible development board featuring the SiFive Freedom E310-G002 (FE310-G002) SoC plus a ESP32-SOLO-1 Wi-Fi and Bluetooth module&amp;rdquo;. I have seen examples for this board written in C, Rust, and TinyGo. Having not used Rust as much as I would like, I wanted to start there for development on this platform.</description>
     </item>
     
   </channel>
