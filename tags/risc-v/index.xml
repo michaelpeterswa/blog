@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>risc-v on michaelpeters</title>
+    <link>https://michaelpeters.dev/tags/risc-v/</link>
+    <description>Recent content in risc-v on michaelpeters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Feb 2023 20:31:04 -0800</lastBuildDate><atom:link href="https://michaelpeters.dev/tags/risc-v/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embedded Rust Programming on WSL (RISC-V)</title>
+      <link>https://michaelpeters.dev/posts/embedded-rust-programming-on-wsl/</link>
+      <pubDate>Tue, 14 Feb 2023 20:31:04 -0800</pubDate>
+      
+      <guid>https://michaelpeters.dev/posts/embedded-rust-programming-on-wsl/</guid>
+      <description>Image Courtesy of SiFive, Inc.
+I recently picked up the SiFive HiFive 1 Rev B RISC-V microcontroller and decided that I wanted to start with Rust as the first language I developed in for this platform. Here is a thorough write-up of the process on Windows 11 via Windows Subsystem for Linux today (February 2023).
+Process This post assumes that you already have a properly configured Ubuntu 20.04 WSL install.</description>
+    </item>
+    
+  </channel>
+</rss>
