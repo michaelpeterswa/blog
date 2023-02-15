@@ -14,10 +14,11 @@ draft: false
 ![SiFive HiFive1 RevB (discontinued)](https://images.prismic.io/sifive/3ea0c69619fcf3f16db9f8c85514a89a4f2d9d00_boards_hifive1.jpg?auto=compress,format#center)
 Image Courtesy of [SiFive, Inc.](https://www.sifive.com/)
 
-I recently picked up the SiFive HiFive 1 Rev B RISC-V microcontroller and decided that I wanted to start with Rust as the first language I developed in for this platform. Here is a thorough write-up of the process on Windows 11 via Windows Subsystem for Linux today (February 2023).
+I recently picked up the SiFive HiFive 1 Rev B RISC-V microcontroller on [Crowd Supply](https://www.crowdsupply.com/sifive/hifive1-rev-b). According to the SiFive product page, the HiFive 1 Rev B is "an Arduino-compatible development board featuring the SiFive Freedom E310-G002 (FE310-G002) SoC plus a ESP32-SOLO-1 Wi-Fi and Bluetooth module". I have seen examples for this board written in C, Rust, and TinyGo. Having not used Rust as much as I would like, I wanted to start there for development on this platform. Here is a thorough write-up of the process on Windows 11 via Windows Subsystem for Linux (February 2023).
 
 ## Process
-This post assumes that you already have a properly configured Ubuntu 20.04 WSL install. Installation of Ubuntu on WSL is out of the scope of this post, although more information can be found [here](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
+This post assumes that you already have a properly configured (basic) Ubuntu 20.04 WSL install. Installation of Ubuntu on WSL is out of the scope of this post, although more information can be found [here](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
+
 ### Prepare WSL for USB Devices
 Following the provided [Microsoft Documentation](https://learn.microsoft.com/en-us/windows/wsl/connect-usb), the first step to prepare WSL for USB is to run the following commands:
 
@@ -70,7 +71,7 @@ usbipd wsl attach --busid 1-12 --distribution Ubuntu-20.04
 
 ### Installing the JLink software on our WSL VM
 
-Some trickery is needed to download the JLink package from their website programatically. To accept the license agreement and download and install the `.deb` package (explicitly for `x86_64` architectures), run the following:
+Some trickery is needed to download the JLink package from their website programatically. To accept the license agreement, download, and install the `.deb` package (explicitly for `x86_64` architectures), run the following:
 
 ```bash
 curl 'https://www.segger.com/downloads/jlink/JLink_Linux_V784f_x86_64.deb' --data-raw 'accept_license_agreement=accepted&submit=Download+software' --output JLink_Linux_x86_64.deb
@@ -106,7 +107,7 @@ rustup target add riscv32imac-unknown-none-elf
 
 ### Installing SiFive GNU Toolchain for RISC-V
 
-To install the toolchain, we will need to download and unpack a file from the SiFive website. It's no longer accessible (via their site) to my knowledge, but a direct link to their downloads server still works as of February 2023.
+To install the toolchain, we will need to download and unpack a file from the SiFive website. It's no longer accessible (via their site) to my knowledge, but a direct link to their download server still works as of February 2023.
 
 The last `chmod` may or may not be optional... I didn't bother to check.
 ```bash
